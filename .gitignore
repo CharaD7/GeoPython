@@ -6,3 +6,9 @@ __pychache__
 venv
 .env
 env
+
+# ipython log files
+.ipynb_checkpoints
+
+# nohup output file
+nohup.out
